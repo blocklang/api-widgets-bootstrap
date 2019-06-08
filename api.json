@@ -1,0 +1,10 @@
+{
+    "name": "api-widgets-bootstrap",
+    "version": "0.1.0",
+    "displayName": "Bootstrap Widgets API",
+    "description": "基于 bootstrap 部件的接口说明",
+    "category": "Widget",
+    "components": [
+        "components/text-input"
+    ]
+}

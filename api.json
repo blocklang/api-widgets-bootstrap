@@ -1,6 +1,6 @@
 {
     "name": "api-widgets-bootstrap",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "displayName": "Bootstrap Widgets API",
     "description": "基于 bootstrap 部件的接口说明",
     "category": "Widget",

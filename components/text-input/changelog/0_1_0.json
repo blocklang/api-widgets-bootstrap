@@ -6,7 +6,7 @@
             "newWidget": {
                 "name": "TextInput",
                 "label": "文本输入框",
-                "iconClass": "",
+                "canHasChildren": false,
                 "properties": [
                     {
                         "name": "name",

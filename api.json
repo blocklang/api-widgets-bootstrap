@@ -5,6 +5,7 @@
     "description": "基于 bootstrap 部件的接口说明",
     "category": "Widget",
     "components": [
-        "components/text-input"
+        "components/text-input",
+        "components/plain-text"
     ]
 }

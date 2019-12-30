@@ -1,0 +1,21 @@
+{
+    "id": "201912301608",
+    "author": "jinzw",
+    "changes": [
+        {
+            "newWidget":{
+                "name": "PlainText",
+                "label": "纯文本",
+                "canHasChildren": false,
+                "properties": [
+                    {
+                        "name": "value",
+                        "label": "文本",
+                        "defaultValue": "",
+                        "valueType": "string"
+                    }
+                ]
+            }
+        }
+    ]
+}
